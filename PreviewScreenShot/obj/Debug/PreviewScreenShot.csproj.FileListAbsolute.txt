@@ -1,0 +1,10 @@
+E:\Program\PreviewScreenShot\PreviewScreenShot\PreviewScreenShot\bin\Debug\PreviewScreenShot.exe.config
+E:\Program\PreviewScreenShot\PreviewScreenShot\PreviewScreenShot\bin\Debug\PreviewScreenShot.exe
+E:\Program\PreviewScreenShot\PreviewScreenShot\PreviewScreenShot\bin\Debug\PreviewScreenShot.pdb
+E:\Program\PreviewScreenShot\PreviewScreenShot\PreviewScreenShot\obj\Debug\PreviewScreenShot.csprojAssemblyReference.cache
+E:\Program\PreviewScreenShot\PreviewScreenShot\PreviewScreenShot\obj\Debug\PreviewScreenShot.Form1.resources
+E:\Program\PreviewScreenShot\PreviewScreenShot\PreviewScreenShot\obj\Debug\PreviewScreenShot.Properties.Resources.resources
+E:\Program\PreviewScreenShot\PreviewScreenShot\PreviewScreenShot\obj\Debug\PreviewScreenShot.csproj.GenerateResource.cache
+E:\Program\PreviewScreenShot\PreviewScreenShot\PreviewScreenShot\obj\Debug\PreviewScreenShot.csproj.CoreCompileInputs.cache
+E:\Program\PreviewScreenShot\PreviewScreenShot\PreviewScreenShot\obj\Debug\PreviewScreenShot.exe
+E:\Program\PreviewScreenShot\PreviewScreenShot\PreviewScreenShot\obj\Debug\PreviewScreenShot.pdb
